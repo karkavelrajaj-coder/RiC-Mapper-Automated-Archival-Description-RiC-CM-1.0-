@@ -25,8 +25,8 @@ Key Relationships (RiC-R) to identify between these entities:
 - RiC-R087: wasBornAt
 - RiC-R067: isChildOf
 - RiC-R074: residesAt
-- RiC-R016: hasBirthDate
-- RiC-R013: wasCreatedOn
+- RiC-R070: hasBirthDate
+- RiC-R070: wasCreatedOn
 - RiC-R034: resultedFrom
 - RiC-R132: hasOriginIn / RiC-R133: isOriginOf
 
