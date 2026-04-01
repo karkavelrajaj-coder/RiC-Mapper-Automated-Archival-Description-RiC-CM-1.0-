@@ -3,3 +3,5 @@ openai==1.109.1
 python-dotenv==1.2.1
 mermaid-py==0.8.4
 pydantic==2.11.10
+pandas==2.2.3
+openpyxl==3.1.5
